@@ -1,5 +1,3 @@
-/////////////////////////////////////
-// Include
 #include "game.h"
 #include <cstdlib>
 #include <cstdio>
@@ -14,7 +12,7 @@
 
 
 /////////////////////////////////////
-// Class Game
+// Класс Game
 Game::Game()
 {
 	m_isGameActive = true;
